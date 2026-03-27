@@ -1,0 +1,28 @@
+{
+  "common": {
+    "login": "Login",
+    "logout": "Logout",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add New"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "gardens": "Gardens",
+    "expenses": "Expenses",
+    "suppliers": "Suppliers",
+    "harvests": "Harvests",
+    "sales": "Sales",
+    "settings": "Settings"
+  },
+  "dashboard": {
+    "total_gardens": "Total Gardens",
+    "total_expenses": "Total Expenses",
+    "total_revenue": "Total Revenue",
+    "net_profit": "Net Profit",
+    "recent_activity": "Recent Activity",
+    "profit_by_garden": "Profit by Garden"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "common": {
+    "login": "लगइन गर्नुहोस्",
+    "logout": "लगआउट",
+    "save": "बचत गर्नुहोस्",
+    "cancel": "रद्द गर्नुहोस्",
+    "delete": "मेटाउनुहोस्",
+    "edit": "सम्पादन गर्नुहोस्",
+    "add": "नयाँ थप्नुहोस्"
+  },
+  "nav": {
+    "dashboard": "ड्यासबोर्ड",
+    "gardens": "बगैचा",
+    "expenses": "खर्च",
+    "suppliers": "आपूर्तिकर्ताहरू",
+    "harvests": "उत्पादन",
+    "sales": "बिक्री",
+    "settings": "सेटिङहरू"
+  },
+  "dashboard": {
+    "total_gardens": "कुल बगैंचाहरू",
+    "total_expenses": "कुल खर्च",
+    "total_revenue": "कुल आम्दानी",
+    "net_profit": "शुद्ध नाफा",
+    "recent_activity": "भर्खरका गतिविधिहरू",
+    "profit_by_garden": "बगैचा अनुसार नाफा"
+  }
+}
